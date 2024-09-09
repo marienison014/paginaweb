@@ -1,0 +1,30 @@
+<head>
+  <link rel="stylesheet" href="style.css"/>
+
+</head>
+<body>
+<header>MARIAEDUARDAFLIX</header>
+
+
+
+
+<H1>COMO começar o AUTOCUIDADO ✨- #mulheresmaiscuidadosas</H1>
+<p>#cuidados</p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PdFZhN2ayvo?si=NNzPrRZqfKNLTTqA" title="YouTube video player" frameborder="0" allow=
+"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
+</body>
+body {
+    color:white;
+    background:aquamarine;
+    margin:0px;
+}
+
+header {
+    border: solid 2px rgb(0, 4, 10);
+    padding: 20px;
+    font-size: 32px;
+    
+}
